@@ -5,7 +5,7 @@
 The PaintDuino is an Arduino Leonardo compatible paintball marker control board.
 
 ### Features:
-* Easily programmed with Arduino IDE
+  * Easily programmed with Arduino IDE
 * Interface for 128 x 32 OLED display
 * Two high current solenoid drivers
 * RGB LED for status and trigger programming
