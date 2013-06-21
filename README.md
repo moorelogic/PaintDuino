@@ -1,5 +1,5 @@
-PaintDuino
-===
+# PaintDuino
+
 
 ## Introduction
 The PaintDuino is an Arduino Leonardo compatible paintball marker control board.
