@@ -4,8 +4,6 @@
 ## Introduction
 The PaintDuino is an Arduino Leonardo compatible, universal paintball marker control board.
 
-[www.moorelogic.com](www.moorelogic.com)
-
 ![PaintDuino Board](http://1.bp.blogspot.com/-_qvqIqHgyPw/UciZT37DcBI/AAAAAAAAABc/cyvwnnWlsfs/s1600/PaintDuino.png)
 
 ### Features:
